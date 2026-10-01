@@ -1,12 +1,12 @@
 # Hi 👋, I'm Niraj Bodke
 
-### BTech CSE Student | Software Developer | Android Developer | Data Science Enthusiast
+### BE CSE Student | Software Developer | Android Developer | Data Science Enthusiast
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 BTech Computer Science Engineering Student
+* 🎓 BE Computer Science Engineering Student
 * 💻 Interested in Software Development & Full Stack Development
 * 📱 Android & Flutter Development Enthusiast
 * 🤖 Exploring AI, ML & Data Science
